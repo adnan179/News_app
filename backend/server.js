@@ -13,7 +13,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: "https://newsapp-5223a.web.app/",
   })
 );
 //helper functions
