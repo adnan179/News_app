@@ -29,7 +29,7 @@ const App = () => {
       setLoading(true);
       try {
         let response = await axios.get(
-          `http://localhost:4000/news/top-headlines?lang=${lang}&category=${category}`
+          `https://news-app-murex-psi.vercel.app/news/top-headlines?lang=${lang}&category=${category}`
         );
         setNews(response.data.articles);
         console.log(response.data.articles);
@@ -60,7 +60,7 @@ const App = () => {
     setLoading(true);
     try {
       let response = await axios.get(
-        `http://localhost:4000/news/search?query=${searchText}&lang=${lang}&category=${category}`
+        `https://news-app-murex-psi.vercel.app/news/search?query=${searchText}&lang=${lang}&category=${category}`
       );
       setSearchResults(response.data.articles);
       setSearchVisible(true);
