@@ -11,11 +11,7 @@ const Base_URL = `https://gnews.io/api/v4`;
 
 app.use(express.json());
 
-app.use(
-  cors({
-    origin: "https://newsapp-5223a.web.app/",
-  })
-);
+app.use(cors());
 //helper functions
 //function to handle query requests
 const ConstructUrl = (
