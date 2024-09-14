@@ -68,6 +68,15 @@
 
 ## 🎨 Screenshots
 
+![image](https://github.com/user-attachments/assets/eecf787a-7fae-4d8c-a2b5-699e0fee307d)
+
+![image](https://github.com/user-attachments/assets/a9e32051-93a9-4435-a4d2-4f09608f57bf)
+
+![image](https://github.com/user-attachments/assets/5b16b1cf-a7e5-46e6-acfc-25d7909c0503)
+
+
+
+
 ## 💡 Features
 1. Fetches and displays the latest news headlines.
 2. Search functionality to filter news articles.
