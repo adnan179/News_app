@@ -1,5 +1,7 @@
 # aconews (📰 News Aggregator App)
 
+**Link:** https://newsapp-5223a.web.app/
+
 **Welcome to the News Aggregator App! 🎉 This project pulls the latest news using the GNews API and presents it through a sleek, responsive frontend. The backend is built with Express.js and hosted on Vercel, while the front end lives on Firebase. Let's dive into the details! 🚀**
 
 ## 📜 Brief Description
